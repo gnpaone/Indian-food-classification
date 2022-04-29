@@ -24,7 +24,7 @@ Let's preview some of the images.
 
 <img src = "https://github.com/gnpaone/Indian-food-classification/blob/main/Pictures/EDA.png">
 
-The size of the images are inconsistent as shown in the height against width plot shown below, so all the images are scaled to same size, so we dont have to worry about inconsistency.
+The size of the images are inconsistent, so all the images are scaled to same size, so we dont have to worry about inconsistency.
 
 ## Model
 To create a convolution neural network to classfied the images, Sequential model is used.
