@@ -7,6 +7,7 @@
 + [Training](#training)
 + [Results Evaluation](#results-evaluation)
 + [Conclusion](#conclusion)
++ [Reference](#reference)
 
 ## About
 
@@ -56,16 +57,25 @@ Model accuracy increased over each epoch, overfitting started at around 40 epoch
 
 Preview some predictions from the model:
 
-First Image to Predict:
+<p>First Image to Predict:</p>
 <img src = "https://github.com/gnpaone/Indian-food-classification/blob/main/Pictures/test.png">
-Actual Label: imarti
-Predicted Label: imarti
+<p>Actual Label: imarti</p>
+<p>Predicted Label: imarti</p>
 
 Now, let's examine in more detail how the model performs and evaluate those predictions.
 
 <img src = "https://github.com/gnpaone/Indian-food-classification/blob/main/Pictures/model.png">
 
-
 ## Conclusion
 
 With the given data sets for 80 classes of Indian food, the model final accuracy reached 92.94% with cross entropy validation loss of 0.2418.
+
+## Reference
+
+[Indian food Dataset](Dataset/Indian-Food-Images)
+- [Indian Food Images Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/indian-food-images-dataset)
+
+<p align="center">
+<b>⭐ Please consider starring this repository if it helped you! ⭐</b>
+</p>
+
