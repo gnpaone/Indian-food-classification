@@ -12,7 +12,6 @@
 ## About
 
 Indian food dataset is a labelled data set with different food classes. Each food class contains 1000s of images. Using the data provided, a deep learning model built on TensorFlow is trained to classify into various classes in dataset.
-
 <br>**Epoches:** 200
 <br>**Batch_size:** 32
 
